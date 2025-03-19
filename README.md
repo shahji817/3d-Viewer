@@ -1,2 +1,1 @@
-# 3d-Viewer
-Assignment
+# 3D-Chair-Model-Creation-Rendering
